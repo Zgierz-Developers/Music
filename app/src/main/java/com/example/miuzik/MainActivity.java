@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // Obsługa odpowiedzi na żądanie uprawnień
     @Override
     public void onRequestPermissionsResult(int requestCode,
                                            @NonNull String[] permissions,
